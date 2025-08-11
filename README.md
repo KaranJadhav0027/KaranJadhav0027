@@ -13,7 +13,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanjadhav0027" height="30" width="40" />
   </a>
 </p>
-
+---
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left" style="margin-left:8cm;">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-
+---
 <h3 align="left">🎨 Frontend Development :</h3>
 <p align="left" style="margin-left:8cm;">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -44,7 +44,7 @@
 </a>
 </p>
 
-
+---
 
 <h3 align="left">⚙️ Backend Development :</h3>
 <p align="left" style="margin-left:8cm;">
@@ -53,7 +53,7 @@
 </a>
 </p>
 
-
+---
 <h3 align="left">🗄️ Databases  :</h3>
 <p align="left" style="margin-left:8cm;>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -64,7 +64,7 @@
 </a>
 </p>
 
-
+---
 <h3 align="left"> 📊 Data Science & Machine Learning :</h3>
 <p align="left" style="margin-left:8cm;">
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -81,7 +81,7 @@
 </a>
 </p>
 
-
+---
 
 <h3 align="left"> 🛠️ Tools & IDEs :</h3>
 <p align="left" style="margin-left:8cm;">
