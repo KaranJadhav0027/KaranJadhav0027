@@ -8,14 +8,16 @@
 ---
 
 <h3 align="left">🔗 Connect with me :</h3>
-<p align="left" style="margin-left:8cm;">
+<p align="left" style="margin-left: 8 cm;">
   <a href="https://linkedin.com/in/karanjadhav0027" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanjadhav0027" height="30" width="40" />
   </a>
 </p>
+
 ---
+
 <h3 align="left">💻 Languages and Tools:</h3>
-<p align="left" style="margin-left:8cm;">
+<p align="left" style="margin-left: 8 cm;">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" style="margin-right:20px;" />
   </a>
@@ -29,7 +31,7 @@
 
 ---
 <h3 align="left">🎨 Frontend Development :</h3>
-<p align="left" style="margin-left:8cm;">
+<p align="left" style="margin-left:8 cm;">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" style="margin-right:20px;"/>
 </a>
@@ -47,7 +49,7 @@
 ---
 
 <h3 align="left">⚙️ Backend Development :</h3>
-<p align="left" style="margin-left:8cm;">
+<p align="left" style="margin-left:8 cm;">
 <a href="https://spring.io/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" style="margin-right:20px;"/>
 </a>
@@ -55,7 +57,7 @@
 
 ---
 <h3 align="left">🗄️ Databases  :</h3>
-<p align="left" style="margin-left:8cm;>
+<p align="left" style="margin-left:8 cm;>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" style="margin-right:20px;"/>
 </a>
@@ -66,7 +68,7 @@
 
 ---
 <h3 align="left"> 📊 Data Science & Machine Learning :</h3>
-<p align="left" style="margin-left:8cm;">
+<p align="left" style="margin-left:8 cm;">
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" style="margin-right:20px;"/>
 </a>
@@ -84,7 +86,7 @@
 ---
 
 <h3 align="left"> 🛠️ Tools & IDEs :</h3>
-<p align="left" style="margin-left:8cm;">
+<p align="left" style="margin-left:8 cm;">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="margin-right:15px;"/>
 </a>
