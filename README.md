@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karan Jadhav</h1>
+<h1 align="center"> Hello , I'm Karan Jadhav 👨‍💻</h1>
 <h3 align="center">Software Developer | Spring Boot • React • MongoDB/MySQL | Python for Data & ML | MCA '25</h3>
 
 - 🌱 I’m currently learning **Data Science**
