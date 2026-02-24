@@ -31,9 +31,11 @@
 </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a>
 </p>
 
 ---
+
 <h3 align="left"> 📊 Data Science & Machine Learning :</h3>
 <p align="left" style="margin-left:8 cm;">
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
@@ -51,6 +53,7 @@
 </p>
 
 ---
+
 <h3 align="left">🎨 Frontend Development :</h3>
 <p align="left" style="margin-left:8 cm;">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
