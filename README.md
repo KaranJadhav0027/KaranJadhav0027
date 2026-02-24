@@ -34,6 +34,23 @@
 </p>
 
 ---
+<h3 align="left"> 📊 Data Science & Machine Learning :</h3>
+<p align="left" style="margin-left:8 cm;">
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" style="margin-right:20px;"/>
+</a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" style="margin-right:20px;"/>
+</a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" style="margin-right:20px;"/>
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" style="margin-right:20px;"/>
+</a>
+</p>
+
+---
 <h3 align="left">🎨 Frontend Development :</h3>
 <p align="left" style="margin-left:8 cm;">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -67,23 +84,6 @@
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="margin-right:20px;"/>
-</a>
-</p>
-
----
-<h3 align="left"> 📊 Data Science & Machine Learning :</h3>
-<p align="left" style="margin-left:8 cm;">
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" style="margin-right:20px;"/>
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" style="margin-right:20px;"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" style="margin-right:20px;"/>
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" style="margin-right:20px;"/>
 </a>
 </p>
 
