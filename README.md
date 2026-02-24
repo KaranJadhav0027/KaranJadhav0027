@@ -1,9 +1,9 @@
 <h1 align="center"> Hello , I'm Karan Jadhav 👨‍💻</h1>
-<h3 align="center">Software Developer | Spring Boot • React • MongoDB/MySQL | Python for Data & ML | MCA '25</h3>
+<h3 align="center">Python for Data & ML | Software Developer | Spring Boot • React • MongoDB/MySQL | BCS '23</h3>
 
-- 🌱 I’m currently learning **Data Science**
-- 💻 Interested in **Full-Stack Development | Data Science | Machine Learning**
-- 🎯 Goal: To contribute as a **Software Engineer / Data Scientist** by building scalable applications
+- 🌱 I’m currently Working as a **Data Scientist and AI/ML Engineer**
+- 💻 Interested in **Data Science | Machine Learning | Full-Stack Development**
+- 🎯 Goal: To contribute as a **Data Scientist / Software Engineer** by building scalable applications
 
 ---
 
