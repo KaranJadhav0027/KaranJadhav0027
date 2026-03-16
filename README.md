@@ -195,7 +195,7 @@ Technologies:
 
 ---
 
-<h3>⭐ **Areas of Interest** </h3>
+<h3>⭐ Areas of Interest </h3>
 
 • Machine Learning  
 • Deep Learning  
