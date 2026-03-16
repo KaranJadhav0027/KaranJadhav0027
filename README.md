@@ -192,3 +192,13 @@ Technologies:
 • VS Code  
 • Jupyter Notebook  
 • Anaconda
+
+⭐ **Areas of Interest**
+
+• Machine Learning  
+• Deep Learning  
+• Computer Vision  
+• NLP  
+• Generative AI  
+• AI Applications  
+• Data Science
