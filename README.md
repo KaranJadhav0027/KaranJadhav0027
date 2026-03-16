@@ -193,7 +193,9 @@ Technologies:
 • Jupyter Notebook  
 • Anaconda
 
-⭐ **Areas of Interest**
+---
+
+<h3>⭐ **Areas of Interest** </h3>
 
 • Machine Learning  
 • Deep Learning  
