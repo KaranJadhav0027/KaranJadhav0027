@@ -1,118 +1,142 @@
 <h1 align="center"> Hello , I'm Karan Jadhav 👨‍💻</h1>
-<h3 align="center">Python for Data & ML | Software Developer | Spring Boot • React • MongoDB/MySQL | BCS '23</h3>
+<h3 align="center">Data Scientist | AI/ML Engineer | Generative AI | Python • Machine Learning • Deep Learning</h3>
 
-- 🌱 I’m currently Working as a **Data Scientist and AI/ML Engineer**
-- 💻 Interested in **Data Science | Machine Learning | Full-Stack Development**
-- 🎯 Goal: To contribute as a **Data Scientist / Software Engineer** by building scalable applications
+- 🌱 Currently working as a **Data Scientist & AI/ML Engineer**
+- 🤖 Specializing in **Machine Learning, Deep Learning, and Generative AI**
+- 💡 Interested in **AI Systems, LLM Applications, and Scalable ML Solutions**
+- 🎯 Goal: Build **real-world AI systems and intelligent applications**
 
 ---
 
 <h3 align="left">🔗 Connect with me :</h3>
-<p align="left" style="margin-left: 8 cm;">
-  <a href="https://linkedin.com/in/karanjadhav0027" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanjadhav0027" height="30" width="40" />
-  </a>
-</p>
 
----
-
-<h3 align="left">💻 Languages and Tools:</h3>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-</a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+<p align="left">
+<a href="https://linkedin.com/in/karanjadhav0027" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
 
 ---
 
-<h3 align="left"> 📊 Data Science & Machine Learning :</h3>
-<p align="left" style="margin-left:8 cm;">
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" style="margin-right:20px;"/>
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" style="margin-right:20px;"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" style="margin-right:20px;"/>
-</a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" style="margin-right:20px;"/>
-</a>
+<h3 align="left">💻 Programming Languages :</h3>
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
 </p>
 
 ---
 
-<h3 align="left">🎨 Frontend Development :</h3>
-<p align="left" style="margin-left:8 cm;">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" style="margin-right:20px;"/>
-</a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" style="margin-right:20px;"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" style="margin-right:20px;"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" style="margin-right:20px;"/>
-</a>
+<h3 align="left">📊 Data Science & Machine Learning :</h3>
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+<img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+
 </p>
 
 ---
 
-<h3 align="left">⚙️ Backend Development :</h3>
-<p align="left" style="margin-left:8 cm;">
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" style="margin-right:20px;"/>
-</a>
-</p>
+<h3 align="left">🧠 Deep Learning & AI :</h3>
 
----
-<h3 align="left">🗄️ Databases  :</h3>
-<p align="left" style="margin-left:8 cm;>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" style="margin-right:20px;"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" style="margin-right:20px;"/>
-</a>
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text.png" width="40" height="40"/>
+
 </p>
 
 ---
 
-<h3 align="left"> 🛠️ Tools & IDEs :</h3>
-<p align="left" style="margin-left:8 cm;">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" style="margin-right:15px;"/>
-</a>
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" style="margin-right:15px;"/>
-</a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" style="margin-right:15px;"/>
-</a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" style="margin-right:15px;"/>
-</a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" width="40" height="40" style="margin-right:15px;"/>
-</a>
-<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" style="margin-right:15px;"/>
-</a>
-</p>
+<h3 align="left">🤖 Generative AI & LLMs :</h3>
 
+<p align="left">
+
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="40" height="40"/>
 
 </p>
+
+Technologies:
+
+• LangChain  
+• Hugging Face Transformers  
+• RAG (Retrieval Augmented Generation)  
+• LoRA / QLoRA  
+• OpenAI APIs / Azure OpenAI  
+• Vector Databases (FAISS)  
+• Prompt Engineering  
+
+---
+
+<h3 align="left">☁️ Cloud & Deployment :</h3>
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
+
+</p>
+
+Technologies:
+
+• FastAPI  
+• Streamlit  
+• Docker  
+• CI/CD (GitHub Actions)
+
+---
+
+<h3 align="left">🗄️ Databases :</h3>
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+
+</p>
+
+Technologies:
+
+• SQL  
+• MySQL  
+• MongoDB  
+• Snowflake / BigQuery (Basics)
+
+---
+
+<h3 align="left">🛠️ Tools & IDEs :</h3>
+
+<p align="left">
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+
+</p>
+
+---
+
+⭐ **Areas of Interest**
+
+• Machine Learning  
+• Deep Learning  
+• Computer Vision  
+• NLP  
+• Generative AI  
+• AI Applications  
+• Data Science
