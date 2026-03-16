@@ -30,6 +30,14 @@
 
 </p>
 
+Technologies:
+
+• Python  
+• Java  
+• C++  
+• C  
+• JavaScript
+
 ---
 
 <h3 align="left">📊 Data Science & Machine Learning :</h3>
@@ -44,6 +52,18 @@
 
 </p>
 
+Technologies:
+
+• Pandas  
+• NumPy  
+• Scikit-Learn  
+• Matplotlib  
+• Seaborn  
+• Feature Engineering  
+• Model Evaluation  
+• XGBoost  
+• Time Series Forecasting
+
 ---
 
 <h3 align="left">🧠 Deep Learning & AI :</h3>
@@ -52,10 +72,20 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
 <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text.png" width="40" height="40"/>
 
 </p>
+
+Technologies:
+
+• ANN  
+• CNN  
+• RNN  
+• TensorFlow  
+• Keras  
+• Computer Vision  
+• NLP  
+• OpenCV
 
 ---
 
@@ -76,26 +106,30 @@ Technologies:
 • LoRA / QLoRA  
 • OpenAI APIs / Azure OpenAI  
 • Vector Databases (FAISS)  
-• Prompt Engineering  
+• Prompt Engineering
 
 ---
 
-<h3 align="left">☁️ Cloud & Deployment :</h3>
+<h3 align="left">🌐 Full-Stack Development :</h3>
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 
 </p>
 
 Technologies:
 
-• FastAPI  
-• Streamlit  
-• Docker  
-• CI/CD (GitHub Actions)
+• React.js  
+• HTML5  
+• CSS3  
+• Bootstrap  
+• Spring Boot  
+• REST APIs
 
 ---
 
@@ -117,6 +151,27 @@ Technologies:
 
 ---
 
+<h3 align="left">☁️ Cloud & Deployment :</h3>
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/>
+
+</p>
+
+Technologies:
+
+• FastAPI  
+• Streamlit  
+• Docker  
+• AWS  
+• Azure  
+• CI/CD (GitHub Actions)
+
+---
+
 <h3 align="left">🛠️ Tools & IDEs :</h3>
 
 <p align="left">
@@ -129,14 +184,11 @@ Technologies:
 
 </p>
 
----
+Technologies:
 
-⭐ **Areas of Interest**
-
-• Machine Learning  
-• Deep Learning  
-• Computer Vision  
-• NLP  
-• Generative AI  
-• AI Applications  
-• Data Science
+• Git  
+• GitHub  
+• Postman  
+• VS Code  
+• Jupyter Notebook  
+• Anaconda
