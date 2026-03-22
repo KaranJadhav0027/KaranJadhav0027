@@ -21,13 +21,13 @@ Let's connect and collaborate on Machine Learning, AI, and Software Development 
 ## 📂 My Project Portfolios
 
 - 🤖 Machine Learning Portfolio  
-  👉 https://github.com/KaranJadhav0027/ML-Portfolio  
+  👉 https://github.com/KaranJadhav0027/ML-Portfolio
 
 - 🧠 Deep Learning Portfolio  
-  👉 https://github.com/KaranJadhav0027/DL-Portfolio  
+  👉 https://github.com/KaranJadhav0027/DL-Portfolio-  
 
 - 💻 System Programming & Data Structures  
-  👉 https://github.com/KaranJadhav0027/PortfolioProjects  
+  👉 https://github.com/KaranJadhav0027/Projects
 
 ---
 
