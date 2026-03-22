@@ -32,7 +32,7 @@
 
 Technologies:
 
-• **Python**
+• Python
 • Java 
 • C++  
 • C  
