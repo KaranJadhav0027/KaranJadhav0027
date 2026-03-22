@@ -32,8 +32,8 @@
 
 Technologies:
 
-• Python  
-• Java  
+• **Python**
+• *Java*  
 • C++  
 • C  
 • JavaScript
