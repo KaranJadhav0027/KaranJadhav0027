@@ -33,7 +33,7 @@
 Technologies:
 
 • **Python**
-• *Java*  
+• Java 
 • C++  
 • C  
 • JavaScript
