@@ -18,6 +18,31 @@ Let's connect and collaborate on Machine Learning, AI, and Software Development 
 
 ---
 
+## 📂 My Project Portfolios
+
+- 🤖 Machine Learning Portfolio  
+  👉 https://github.com/KaranJadhav0027/ML-Portfolio  
+
+- 🧠 Deep Learning Portfolio  
+  👉 https://github.com/KaranJadhav0027/DL-Portfolio  
+
+- 💻 System Programming & Data Structures  
+  👉 https://github.com/KaranJadhav0027/PortfolioProjects  
+
+---
+
+## 🚀 Highlight Projects
+
+- 📊 End-to-End ML Projects (Regression, Classification, Clustering)  
+- 🧠 Deep Learning Models (ANN, CNN, RNN, NLP)  
+- 💬 Client-Server Chat Application (Java AWT + Socket Programming)  
+- 🗂️ Virtual File System (Linux-based Simulation)  
+- 📦 File Packer & Unpacker (System Utility)  
+
+
+
+---
+
 ## 🚀 Technologies I Use
 
 ### 🧑‍💻 Programming Languages
