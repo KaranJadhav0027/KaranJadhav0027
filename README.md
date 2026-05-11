@@ -74,10 +74,11 @@ Let's connect and collaborate on Machine Learning, AI, and Software Development 
 ### 🤖 Generative AI & LLMs
 - 🧠 LangChain  
 - 🤗 Hugging Face Transformers  
-- 🔎 RAG (Retrieval-Augmented Generation)  
+- 🔎 RAG (Retrieval-Augmented Generation)
+- 🤖 Agentic AI
 - ⚡ LoRA / QLoRA  
 - ☁️ OpenAI APIs / Azure OpenAI  
-- 🗂️ Vector Databases (FAISS)  
+- 🗂️ Vector Databases (Pinecone, FAISS, Weaviate, Chroma, Milvus)  
 - ✍️ Prompt Engineering  
 
 ---
