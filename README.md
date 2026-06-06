@@ -30,7 +30,7 @@ Let's connect and collaborate on Machine Learning, AI, and Software Development 
   👉 https://github.com/KaranJadhav0027/Python-Code 
 
 - 💻 System Programming & Data Structures  
-  👉 https://github.com/KaranJadhav0027/Projects
+   👉 https://github.com/KaranJadhav0027/Projects
 
 ---
 
