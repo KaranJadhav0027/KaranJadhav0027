@@ -23,7 +23,7 @@ Let's connect and collaborate on Machine Learning, AI, and Software Development 
 - 🤖 Machine Learning Portfolio  
   👉 https://github.com/KaranJadhav0027/ML-Portfolio
 
-- 🧠 Deep Learning Portfolio  
+- 🧠 Generative AI Portfolio 
   👉 https://github.com/KaranJadhav0027/DL-Portfolio-
 
 - 🐍 Python Code  
