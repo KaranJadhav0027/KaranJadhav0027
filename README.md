@@ -20,7 +20,7 @@ Let's connect and collaborate on Machine Learning, AI, and Software Development 
 
   ## 📂 Project Portfolios
 
-### 🧠 **Generative AI Portfolio**
+## 🧠 **Generative AI Portfolio**
   🔗 https://github.com/KaranJadhav0027/DL-Portfolio-
 
 ### 🤖 **Machine Learning Portfolio**
